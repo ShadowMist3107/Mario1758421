@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+h1{
+    color: black
+}
+h3{
+    color: black
+}
+.Logo{
+    width: 500px;
+}
+.Primero{
+    width: 500px;
+    height: 500px;
+}
+.Segundo{
+    width: 700px;
+}
+.Tercero{
+    width: 700px;
+}
+.Derrota{
+    width: 700px;
+}
